@@ -6,7 +6,7 @@ Adapted from curriculum by **Huilin Han**
 
 ---
 
-## Week 1: Welcome to Python (09/19)
+## Week 1: Welcome to Python (02/13)
 
 *Intro to Python, variables, data types, print + input, math operations*
 
@@ -58,7 +58,7 @@ Use math operators: `+`,`*`,`/` , and others.
 **Save your code as a `.py` file** (make sure it is in the file name when you save), and send it to me at `alicia@paper-airplanes.org` before the beginning of next week's class. 
 
 
-## Week 2: Logical statements, loops & functions (09/26)
+## Week 2: Logical statements, loops & functions (02/20)
 
 *Topics: Comparison operators, for loops and while loops, functions*
 
@@ -114,7 +114,7 @@ This function finds the prime numbers between 0 and 50.
 - If a number is prime, print it out.
 [Hint: a number is prime if it can not be divided by any integer smaller than it (and larger than 1)]
 
-## Week 3: Data Structures (10/3)
+## Week 3: Data Structures (02/27)
 
 *Topics: lists, tuples, dictionaries*
 
@@ -191,7 +191,7 @@ The main function and menu are written for you this time, you do not have to wri
 
 You are done! You might have errors to debug, but when you are done, play around and enjoy your experience at Python Kitchen. 
 
-## Week 4: Text Processing (10/10)
+## Week 4: Text Processing (03/06)
 
 Topics: *complex data structures, file I/O, preprocessing, list comprehension*
 
@@ -213,7 +213,7 @@ References for this week's material:
 1. Read the final project instructions
 2. English word workshop [Link with homework instructions](https://docs.google.com/document/d/19YoniHJGvWWAubZcT69IjbIiIwZcaB2zr4sDObplXdY/edit?usp=sharing)
 
-## Week 5: Advanced Topics (10/17)
+## Week 5: Advanced Topics (03/13)
 
 Topics: *Try/except statements, recursion, quicksort, dispatch tables*
 
@@ -248,7 +248,7 @@ In this assignment, you will write three recursive functions.
 `Words = [‘string’,’recursion’,’list’, ‘recursion’,’tuple’,’dictionary’,’if’,’else’,’for’,’while’,’try’,’except’,’elif’]`
 
 
-## Week 6: Object-oriented programming and Libraries (10/24)
+## Week 6: Object-oriented programming and Libraries (03/20)
 
 *Topics: OOP, basic libraries (including NumPy)*
 
@@ -274,7 +274,7 @@ Create a class called student. Create an init function as well as at least three
 
 At least one function should take inputs from the user. In this function, use try, except statements from last week to deal with the case where the user enters invalid input.
 
-## Week 7: Data analysis (11/7)
+## Week 7: Data analysis (03/27)
 
 *Machine learning overview and basic pandas*
 
@@ -301,7 +301,7 @@ At least one function should take inputs from the user. In this function, use tr
 - Find a dataset on https://www.kaggle.com/datasets that is interesting to you and do some basic plotting + data analysis on a Jupyter notebook. Email me your notebook!
 
 
-## Week 8: Data analysis, continued
+## Week 8: Data analysis, continued (04/03)
 
 Topics: plotting, building and making predictions from models in sklearn
 
@@ -326,7 +326,7 @@ Topics: plotting, building and making predictions from models in sklearn
 
 No homework — work on final project! 
 
-## Week 9: Web Scraping (11/21)
+## Week 9: Web Scraping (04/10)
 
 *Topic: Web Scraping*
 
