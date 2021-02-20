@@ -76,7 +76,7 @@ This week, you are going to use what you learned about if statements, loops and 
 
 Please use the template in the `HW2_template.py` file (in the `week 2` folder. This file has locations where you write your functions, as well as a section below the functions where they are called. 
 
-A way to download code from GitHub quickly is GitHub Desktop: [documentation here](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop). You can also press the green "download" button on the repository home page, or copy + paste the code.
+A way to download code from GitHub quickly ("cloning" a repository) is GitHub Desktop: [documentation here](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop). You can also press the green "download" button on the repository home page, or copy + paste the code. You can also do this on the terminal! Instructions here: https://guides.github.com/introduction/git-handbook/
 
 #### Here are the four functions you will need to write:
 
